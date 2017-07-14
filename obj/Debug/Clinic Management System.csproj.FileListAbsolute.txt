@@ -1,0 +1,41 @@
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.Cache
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Log_in.resources
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Main_Form.resources
+D:\free lance work\شغل خاص\Clinic Management System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.staff_form.resources
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\bin\Debug\IrisSkin2.dll
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Log_in.resources
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Main_Form.resources
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.staff_form.resources
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\GitHub\Clinic-Management-System\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.frmLoginMoafa.resources
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\bin\Debug\MySql.Data.dll
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\bin\Debug\MySql.Data.xml
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.frmLoginMoafa.resources
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Log_in.resources
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Main_Form.resources
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.PL.staff_form.resources
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.Cache
+E:\clinic_2\Clinic-Management-System-master\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.PL.staff_management.resources
